@@ -1,2 +1,5 @@
-# ignore ALL javascript files
-*.js
+# dependencies
+/node_modules
+
+# ignore debugging / testing file for Utils
+Util/Testing.ts
