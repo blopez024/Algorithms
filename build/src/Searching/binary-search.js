@@ -1,6 +1,6 @@
 "use strict";
 /**
- * @file Contains Linear Search Algorithm.
+ * @file Contains Binary Search Algorithm.
  * @author BML
  *
  * Time Complexity:     O(log(n))
